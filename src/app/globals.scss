@@ -1,0 +1,12 @@
+@use '../styles/reset.module';
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+body {
+  background-color: black;
+}
